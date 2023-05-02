@@ -29,6 +29,7 @@ Splitting dataset into train and test sets.
 To do that we will use function create_dataset().
 
 dataset: A numpy array of time series, first dimension is the time steps
+
 lookback: Size of window for prediction
 
 <img src="img/create_dataset.png" width="800"/>
