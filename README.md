@@ -42,7 +42,7 @@ Our model will have one LSTM layer with input_size = 1 and hidden_size = 50. And
 
 # Training
 
-We will train our model on 2000 epochs and use optimizer Adam and loss function MSE
+We will train our model on 2000 epochs and use optimizer Adam and loss function MSE.
 
 <img src="img/training.png" width="800"/>
 
