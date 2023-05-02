@@ -12,7 +12,7 @@ Below is a plot of the entire dataset.
 
 Dataset has two columns: Date and Births.
 
-<img src="img/dataset_columns.png" width="800"/>
+<img src="img/dataset_columns.png" width="400"/>
 
 # Dataset Scaling and Split
 
